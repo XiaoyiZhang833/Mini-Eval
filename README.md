@@ -4,10 +4,9 @@
 
 轻量级 LLM 文本结果标注与评测工具，支持多评测模式、存档续评、结果浏览修订与导出。
 
-
-
 A lightweight LLM annotation and evaluation tool with multiple evaluation modes, archive resume, editable result browsing, and export support.
 
+支持中文/support English
 
 我的联系方式在[我的个人网页](https://xiaoyizhang833.github.io/)中
 
